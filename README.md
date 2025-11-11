@@ -1,16 +1,106 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**codewith-MJ/codewith-MJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open>
+<summary><b>🇰🇷 한국어</b></summary>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+프론트엔드와 백엔드를 함께 다루며 **데이터 흐름부터 화면까지 직접 설계하고 구현하는 개발자**입니다.
+
+명확한 소통과 실행 중심의 협업으로, 아이디어를 실제 서비스로 만들어냅니다.
+
+API 설계, 비동기 처리, 렌더링 최적화 등 **사용성과 안정성을 높이는 개발 방식**에 관심이 많습니다.
+
+기능 구현을 넘어, 팀이 예측 가능하게 일할 수 있는 구조를 고민합니다.
+
+</details>
+
+<details>
+<summary><b>🔤 English</b></summary>
+
+<br>
+
+I'm a full-stack developer who designs and implements everything from **data flow to user interfaces.**
+
+I work with a focus on clear communication and execution, turning ideas into real, reliable products.
+
+I'm interested in improving **usability and stability** through better API design, async processing, and rendering optimization.
+
+Beyond feature delivery, I care about building structures that help teams work predictably and efficiently.
+
+</details>
+
+---
+
+## 🚀 Expertise
+
+<details open>
+<summary><b>🇰🇷 한국어</b></summary>
+
+<br>
+
+**풀스택 개발**  
+프론트엔드부터 백엔드, 데이터 파이프라인까지 전체 흐름을 설계하고 구현합니다.
+
+**성능 최적화**  
+쿼리 최적화로 처리 시간 50% 단축, Kafka 스트리밍으로 대용량 데이터 적재 안정화 경험이 있습니다.
+
+**비동기 처리 설계**  
+즉시 응답 후 백그라운드에서 처리하는 구조로, 서버 부하를 분산하고 사용자 경험을 개선합니다.
+
+**문제 해결 중심 개발**  
+실제 사용자 불편을 기술로 해결하고, 팀이 예측 가능하게 일할 수 있는 구조를 만듭니다.
+
+</details>
+
+<details>
+<summary><b>🔤 English</b></summary>
+
+<br>
+
+**Full-Stack Development**  
+I design and implement complete service flows from frontend to backend and data pipelines.
+
+**Performance Optimization**  
+Reduced query processing time by 50% and stabilized large-scale data ingestion with Kafka streaming.
+
+**Async Processing Design**  
+I improve UX by responding instantly while processing heavy tasks in the background.
+
+**Problem-Solving First**  
+I solve real user pain points with technology and build structures that help teams work predictably.
+
+</details>
+
+---
+
+## 💻 Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%A7%80-%EA%B9%80-046779391/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://tiktok.com/@yourusername](https://level-origami-c2f.notion.site/codewith-MJ-afa45d9935d441ffbea23d3c7a1883e1?source=copy_link))
+
+---
