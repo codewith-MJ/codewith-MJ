@@ -1,68 +1,24 @@
-# 👋 Hi there
-
-<details open>
-<summary><b>🇰🇷 한국어</b></summary>
-
-<br>
+# 👋 Hi there,
 
 프론트엔드와 백엔드를 함께 다루며 **데이터 흐름부터 화면까지 직접 설계하고 구현하는 개발자**입니다.  
-명확한 소통과 실행 중심의 협업으로, 아이디어를 실제 서비스로 만들어냅니다.  
+명확한 소통과 실행 중심의 협업으로, 아이디어를 실제 서비스로 만들어냅니다.
+
 API 설계, 비동기 처리, 렌더링 최적화 등 **사용성과 안정성을 높이는 개발 방식**에 관심이 많습니다.  
-기능 구현을 넘어, 팀이 예측 가능하게 일할 수 있는 구조를 고민합니다.
+기능 구현을 넘어, 팀이 효율적으로 협업할 수 있는 구조를 고민합니다.
 
-</details>
-
-<details>
-<summary><b>🔤 English</b></summary>
-
-<br>
+---
 
 I'm a full-stack developer who designs and implements everything from **data flow to user interfaces.**  
-I work with a focus on clear communication and execution, turning ideas into real, reliable products.  
+I work with a focus on clear communication and execution, turning ideas into real, reliable products.
+
 I'm interested in improving **usability and stability** through better API design, async processing, and rendering optimization.  
-Beyond feature delivery, I care about building structures that help teams work predictably and efficiently.
+Beyond feature delivery, I care about building structures that enable efficient team collaboration.
 
-</details>
-
----
-
-## 🚀 Expertise
-
-<details open>
-<summary><b>🇰🇷 한국어</b></summary>
-
-<br>
-
-**풀스택 개발**  
-프론트엔드부터 백엔드, 데이터 파이프라인까지 전체 흐름을 설계하고 구현합니다.  
-**성능 최적화**  
-쿼리 최적화로 처리 시간 50% 단축, Kafka 스트리밍으로 대용량 데이터 적재 안정화 경험이 있습니다.  
-**비동기 처리 설계**  
-즉시 응답 후 백그라운드에서 처리하는 구조로, 서버 부하를 분산하고 사용자 경험을 개선합니다.  
-**문제 해결 중심 개발**  
-실제 사용자 불편을 기술로 해결하고, 팀이 예측 가능하게 일할 수 있는 구조를 만듭니다.  
-
-</details>
-
-<details>
-<summary><b>🔤 English</b></summary>
-
-<br>
-
-**Full-Stack Development**  
-I design and implement complete service flows from frontend to backend and data pipelines.  
-**Performance Optimization**  
-Reduced query processing time by 50% and stabilized large-scale data ingestion with Kafka streaming.  
-**Async Processing Design**  
-I improve UX by responding instantly while processing heavy tasks in the background.  
-**Problem-Solving First**  
-I solve real user pain points with technology and build structures that help teams work predictably.  
-
-</details>
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -86,9 +42,13 @@ I solve real user pain points with technology and build structures that help tea
 
 ---
 
-## 🌐 Socials
+## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%A7%80-%EA%B9%80-046779391/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://tiktok.com/@yourusername](https://level-origami-c2f.notion.site/codewith-MJ-afa45d9935d441ffbea23d3c7a1883e1?source=copy_link))
+**mj.kim.coding@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%A7%80-%EA%B9%80-046779391/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://level-origami-c2f.notion.site/codewith-MJ-afa45d9935d441ffbea23d3c7a1883e1?source=copy_link)
 
 ---
+
+</div>
