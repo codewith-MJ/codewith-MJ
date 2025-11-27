@@ -7,7 +7,7 @@ API 설계, 비동기 처리, 렌더링 최적화 등 **사용성과 안정성�
 <br /><br /><br />
 
 ## 📬 개인 링크
-- ✉️ [mj.kim.coding@gmail.com](mailto:your@email.com)
+- ✉️ [mj.kim.coding@gmail.com](mailto:mj.kim.coding@gmail.com)
 - 💼 [LinkedIn 프로필](https://www.linkedin.com/in/mj-kim-dev)
 - 📚 [Notion · 학습 & 프로젝트 기록](https://notion.link)
 <br /><br /><br />
