@@ -8,9 +8,9 @@ API 설계, 비동기 처리, 렌더링 최적화 등 **사용성과 안정성�
 
 ## 📬 Contact
 
-- 💌 **이메일:** [mj.kim.coding@gmail.com](mailto:your@email.com)
-- [💼 **LinkedIn · 경력 프로필**](www.linkedin.com/in/mj-kim-dev)
-- [📚 **Notion · 학습 & 프로젝트 기록**](https://notion.link)
+- ✉️ [mj.kim.coding@gmail.com](mailto:your@email.com)
+- 💼 [LinkedIn 프로필](www.linkedin.com/in/mj-kim-dev)
+- 📚 [Notion · 학습 & 프로젝트 기록](https://notion.link)
 <br /><br />
 
 ## 🚀 프로젝트
@@ -18,7 +18,7 @@ API 설계, 비동기 처리, 렌더링 최적화 등 **사용성과 안정성�
 ### 싹싹커밋 (Ssakssak-commit)
 > GitHub 커밋 로그 AI 자동 분석·요약 및 리포트 생성 서비스
 
-[레포지토리 주소](https://github.com/username/ssakssak-commit) (단일 레포지토리)| [배포 사이트](https://https://ssakssak-commit.cloud/)
+**[레포지토리 주소(단일 레포지토리)](https://github.com/username/ssakssak-commit) | [배포 사이트](https://ssakssak-commit.cloud/)**
 
 - Mermaid를 활용한 Git 커밋 히스토리 및 브랜치 구조 시각화
 - BullMQ(Redis 기반)로 대량 커밋 백그라운드 분석 및 진행률 실시간 업데이트
@@ -29,7 +29,7 @@ API 설계, 비동기 처리, 렌더링 최적화 등 **사용성과 안정성�
 ### PasteWise
 > 클립보드 기반 번역/말투 변환 데스크톱 앱
 
-[클라이언트 레포지토리](https://github.com/codewith-MJ/paste-wise) | [서버 레포지토리](https://github.com/codewith-MJ/paste-wise-server)
+**[클라이언트 레포지토리](https://github.com/codewith-MJ/paste-wise) | [서버 레포지토리](https://github.com/codewith-MJ/paste-wise-server)**
 
 - Electron IPC 통신으로 OS 레벨 클립보드 접근 및 전역 단축키 등록
 - HUD·Toast UI로 변환 상태 실시간 피드백 제공
