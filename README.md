@@ -4,14 +4,13 @@
 
 API 설계, 비동기 처리, 렌더링 최적화 등 **사용성과 안정성을 높이는 개발 방식**에 관심이 많습니다.  
 기능 구현을 넘어, 팀이 효율적으로 협업할 수 있는 구조를 고민합니다.
-<br /><br />
+<br /><br /><br />
 
-## 📬 Contact
-
+## 📬 개인 링크
 - ✉️ [mj.kim.coding@gmail.com](mailto:your@email.com)
 - 💼 [LinkedIn 프로필](www.linkedin.com/in/mj-kim-dev)
 - 📚 [Notion · 학습 & 프로젝트 기록](https://notion.link)
-<br /><br />
+<br /><br /><br />
 
 ## 🚀 프로젝트
 
